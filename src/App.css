@@ -1,5 +1,6 @@
 .app-video {
   display: flex;
+
   width: 90%;
   margin-inline: auto;
   gap: 20px;
